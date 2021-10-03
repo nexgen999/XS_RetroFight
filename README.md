@@ -19,15 +19,15 @@ XS_RetroFight-Downloader will download all files we need
 
 After
 
-Unpack XS_RetroFight.zip to your desktop
-unpack retroarch bios into root of XS_RetroFight folder
-unpack core pack and rename core folder to core_stable & core_nightly 
-put core_rename folder into XS_RetroFight root folder
+- Unpack XS_RetroFight.zip to your desktop
+- unpack retroarch bios into root of XS_RetroFight folder
+- unpack core pack and rename core folder to core_stable & core_nightly 
+- put core_rename folder into XS_RetroFight root folder
 
 all right, XS_RetroFight is ready
 
-Download and install XS_RetroFight Xbox From https://nexgen999.github.io/
-put XS_RetroFight to the root of your external hard drive
+- Download and install XS_RetroFight Xbox From https://nexgen999.github.io/
+- put XS_RetroFight to the root of your external hard drive
 
 Copy your roms on XS_RetroFight/roms/folder.of.your.choice
 
